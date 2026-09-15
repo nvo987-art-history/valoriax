@@ -1,0 +1,4 @@
+Contact: https://nvo987.fr/contact.html
+Canonical: https://valoriax.nvo987.fr/.well-known/security.txt
+Preferred-Languages: fr, en
+Expires: 2027-09-15T23:59:59Z
