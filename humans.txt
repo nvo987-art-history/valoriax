@@ -1,0 +1,39 @@
+/* TEAM */
+
+Organisation: VALORIAX
+Ecosystem: NEXARIUM
+Associated organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+
+/* SITE */
+
+Site: https://valoriax.nvo987.fr
+Language: French
+Purpose: Institutional transparency infrastructure
+
+/* IDENTITY */
+
+DID: did:web:identity.nvo987.us
+DID Document: https://identity.nvo987.us/.well-known/did.json
+
+/* PRINCIPLES */
+
+Responsibility
+Verification
+Transparency
+Preservation
+
+/* TECHNOLOGY */
+
+Semantic documentation
+Cryptographic verification
+OpenTimestamps
+Decentralized archiving
+Machine-readable infrastructure
+
+/* CONTACT */
+
+https://nvo987.fr/contact.html
+
+/* COPYRIGHT */
+
+© 2026 VALORIAX
