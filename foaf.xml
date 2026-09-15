@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
+  <foaf:Organization rdf:about="https://valoriax.nvo987.fr/">
+
+    <foaf:name>VALORIAX</foaf:name>
+
+    <foaf:homepage rdf:resource="https://valoriax.nvo987.fr/"/>
+
+    <foaf:page rdf:resource="https://valoriax.nvo987.fr/"/>
+
+    <dcterms:title>
+      Infrastructure de Transparence Institutionnelle
+    </dcterms:title>
+
+    <dcterms:description>
+      Infrastructure ouverte de transparence institutionnelle connectée à l’écosystème NEXARIUM et associée à NVO987 – Culture Visuelle Moderne et Contemporaine.
+    </dcterms:description>
+
+    <foaf:weblog rdf:resource="https://valoriax.nvo987.fr/"/>
+
+    <foaf:account>
+      <foaf:OnlineAccount>
+        <foaf:accountServiceHomepage
+          rdf:resource="https://identity.nvo987.us/"/>
+      </foaf:OnlineAccount>
+    </foaf:account>
+
+  </foaf:Organization>
+
+</rdf:RDF>
