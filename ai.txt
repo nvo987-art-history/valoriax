@@ -1,0 +1,56 @@
+# VALORIAX AI INFORMATION
+
+name: VALORIAX
+description: Infrastructure ouverte de transparence institutionnelle connectée à l’écosystème NEXARIUM.
+language: fr
+url: https://valoriax.nvo987.fr
+canonical: https://valoriax.nvo987.fr
+
+organization:
+  name: VALORIAX
+  associated_organization: NVO987 – Culture Visuelle Moderne et Contemporaine
+  ecosystem: NEXARIUM
+
+identity:
+  method: did:web
+  did: did:web:identity.nvo987.us
+  document: https://identity.nvo987.us/.well-known/did.json
+  configuration: https://identity.nvo987.us/.well-known/did-configuration.json
+
+purpose:
+  - transparence institutionnelle
+  - responsabilité publique
+  - documentation vérifiable
+  - intégrité opérationnelle
+  - continuité archivistique
+  - vérification cryptographique
+  - organisation sémantique
+  - préservation institutionnelle
+
+principles:
+  - responsabilité
+  - vérification
+  - transparence
+  - préservation
+
+verification:
+  - données sémantiques structurées
+  - empreintes cryptographiques
+  - OpenTimestamps
+  - archivage décentralisé
+  - vérification lisible par machine
+
+related:
+  - https://www.nexarium.us
+  - https://www.nvo987.fr
+  - https://nvo987.us
+
+contact:
+  https://nvo987.fr/contact.html
+
+robots:
+  index: allowed
+  follow: allowed
+
+copyright:
+  © 2026 VALORIAX
