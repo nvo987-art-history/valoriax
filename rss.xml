@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>
+
+    <title>VALORIAX</title>
+
+    <link>https://valoriax.nvo987.fr/</link>
+
+    <description>
+      Infrastructure ouverte de transparence institutionnelle connectée à l’écosystème NEXARIUM.
+    </description>
+
+    <language>fr-FR</language>
+
+    <copyright>© 2026 VALORIAX</copyright>
+
+    <managingEditor>VALORIAX</managingEditor>
+
+    <webMaster>VALORIAX</webMaster>
+
+    <lastBuildDate>Tue, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
+
+    <item>
+
+      <title>VALORIAX — Infrastructure de Transparence Institutionnelle</title>
+
+      <link>https://valoriax.nvo987.fr/</link>
+
+      <guid isPermaLink="true">
+        https://valoriax.nvo987.fr/
+      </guid>
+
+      <description>
+        VALORIAX est une infrastructure ouverte de transparence institutionnelle soutenant la documentation vérifiable, l’intégrité opérationnelle, la responsabilité publique et la continuité archivistique.
+      </description>
+
+      <pubDate>Tue, 01 Jan 2026 00:00:00 GMT</pubDate>
+
+    </item>
+
+  </channel>
+
+</rss>
