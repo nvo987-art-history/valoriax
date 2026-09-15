@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>VALORIAX</title>
+
+  <subtitle>
+    Infrastructure de Transparence Institutionnelle
+  </subtitle>
+
+  <id>https://valoriax.nvo987.fr/</id>
+
+  <link href="https://valoriax.nvo987.fr/" rel="alternate"/>
+
+  <link
+    href="https://valoriax.nvo987.fr/atom.xml"
+    rel="self"
+    type="application/atom+xml"/>
+
+  <updated>2026-01-01T00:00:00Z</updated>
+
+  <author>
+    <name>VALORIAX</name>
+  </author>
+
+  <entry>
+
+    <title>VALORIAX — Infrastructure de Transparence Institutionnelle</title>
+
+    <id>https://valoriax.nvo987.fr/</id>
+
+    <link
+      href="https://valoriax.nvo987.fr/"
+      rel="alternate"/>
+
+    <updated>2026-01-01T00:00:00Z</updated>
+
+    <summary>
+      Infrastructure ouverte de transparence institutionnelle connectée à l’écosystème NEXARIUM.
+    </summary>
+
+    <content type="html">
+      <![CDATA[
+        <p>
+          VALORIAX est une infrastructure ouverte de transparence
+          institutionnelle soutenant la documentation vérifiable,
+          l’intégrité opérationnelle, la responsabilité publique,
+          la vérification cryptographique et la continuité archivistique.
+        </p>
+      ]]>
+    </content>
+
+  </entry>
+
+</feed>
